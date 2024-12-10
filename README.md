@@ -6,18 +6,22 @@ The Movie Recommendation System is a machine-learning-based project designed to 
 
 Features
 
-Personalized Recommendations: Tailored movie suggestions based on user preferences.
+Personalized Recommendations:
+Tailored movie suggestions based on user preferences.
 Hybrid Recommendation Model: Combines collaborative and content-based filtering for better accuracy.
-Scalability: Designed to handle a growing user base and movie dataset.
+Scalability:
+Designed to handle a growing user base and movie dataset.
 User-Friendly Interface: Intuitive and interactive user interface for seamless navigation.
 Cold-Start Problem Mitigation: Addresses new-user and new-item challenges effectively.
 Tech Stack
 
 Frontend
-React.js: For creating a dynamic and responsive user interface.
+React.js: 
+For creating a dynamic and responsive user interface.
 HTML/CSS/JavaScript: For building and styling the web application.
 Backend
-Flask/Django: For server-side development.
+Flask/Django: 
+For server-side development.
 Python: Core language for recommendation algorithms.
 Machine Learning
 Scikit-learn: For implementing collaborative and content-based filtering.
